@@ -1,2 +1,4 @@
+<<<<<<< .mine
+A kakvo li sym togava?=======
 A kakvo li sym togava?
-ddz
+ddz>>>>>>> .r56
