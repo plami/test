@@ -1,2 +1,3 @@
-Koi si ti be
+<<<<<<< .mineDimitar Keremedchiev=======Koi si ti be
 a ti koi si
+>>>>>>> .theirs
