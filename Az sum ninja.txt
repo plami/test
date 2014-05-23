@@ -1,1 +1,5 @@
+<<<<<<< .mine
+Tuk zashto e prazno?pitam az
+=======
 az syshto !
+>>>>>>> .r37
