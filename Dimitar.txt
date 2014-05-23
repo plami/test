@@ -1,3 +1,4 @@
-<<<<<<< .mineDimitar Keremedchiev=======Koi si ti be
+.mineDimitar 
+Koi si ti be
 a ti koi si
->>>>>>> .theirs
+.theirs
